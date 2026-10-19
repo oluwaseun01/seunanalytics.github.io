@@ -1,0 +1,60 @@
+Sales Performance Dashboard | Power BI
+
+Project Overview
+
+This project focuses on analyzing business performance using Microsoft Power BI. The dashboard provides insights into revenue, costs, profitability, customer trends, brand performance, product preferences, and customer income levels.
+
+Tools & Skills
+
+* Microsoft Power BI
+* Power Query
+* Data Cleaning and Transformation
+* KPI Creation
+* Data Visualization
+* Business Intelligence and Insight Generation
+
+Key Performance Indicators (KPIs)
+
+* Total Revenue: $3.11M
+* Total Cost: $2.17M
+* Total Profit: $931.905K
+* Total Customers: 250
+
+Key Business Insights
+
+1. Revenue Performance
+
+The business generated approximately $3.11 million in revenue, with the yearly revenue chart indicating strong overall performance in 2023.
+
+2. Profitability
+
+Total profit reached approximately $931.9K against total costs of $2.17M, indicating that the business generated a positive profit after covering its costs.
+
+3. Top-Performing Brands
+
+Apple recorded the highest profit at approximately $197K. Lenovo and Samsung followed at around $160K each, while Dell recorded the lowest profit among the displayed brands at approximately $126K.
+
+4. Product Purchases by Color
+
+White products recorded the highest purchase quantity at approximately 6K, followed by gray products at 5.2K. Black products recorded the lowest quantity at around 4.1K.
+
+This suggests that white products were the most purchased color in the dataset.
+
+5. Profit by Customer Income Level
+
+Medium-income customers generated the highest profit at approximately $17K, compared with $12.5K from low-income customers and $12K from high-income customers.
+
+6. Monthly Customer Trends
+
+The dashboard shows a decline in monthly customer counts from approximately 90 to 77 across the displayed periods. This trend may require further investigation to understand changes in customer activity.
+
+Recommendations
+
+* Investigate monthly customer declines and identify opportunities to improve customer retention.
+* Analyze the factors contributing to Apple’s stronger profitability.
+* Review product demand by color to support inventory planning.
+* Explore the purchasing behavior of medium-income customers to identify opportunities for growth.
+
+Conclusion
+
+This project demonstrates my ability to clean and transform data, create KPIs, build interactive Power BI visualizations, and translate business data into actionable insights.
