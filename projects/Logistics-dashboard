@@ -1,0 +1,151 @@
+Logistics & Transportation Analytics — Capstone Project
+
+Project Title: Logistics Operations, Delivery, Driver, Fleet, Cost, Maintenance & Safety Analysis
+Tool Used: Microsoft Power BI
+Project Type: Data Analytics Capstone Project
+
+1. Project Overview
+
+This capstone project involved developing four interactive Power BI dashboards to analyze logistics and transportation operations. The goal was to transform raw operational data into meaningful insights that can help management monitor delivery performance, evaluate driver productivity, optimize fleet utilization, control operational costs, and improve safety.
+
+The dashboards provide a consolidated view of key business performance indicators (KPIs), enabling stakeholders to identify trends, monitor performance, and make data-driven decisions.
+
+1. Project Objectives
+
+* Analyze delivery and operational performance.
+* Monitor on-time delivery rates and delivery trends.
+* Evaluate driver productivity and performance.
+* Measure fleet utilization and vehicle maintenance.
+* Track fuel expenditure and maintenance costs.
+* Analyze safety incidents and identify areas for operational improvement.
+
+1. Data Preparation and Analysis
+
+The project involved working with multiple datasets related to logistics operations, drivers, trips, vehicles, deliveries, fuel purchases, maintenance, and safety incidents.
+
+Key activities included:
+
+* Data Cleaning: Identified and handled missing values, checked data consistency, and prepared datasets for analysis.
+* Power Query: Used Power Query to clean, transform, and prepare data for reporting.
+* Data Modeling: Established relationships between relevant datasets to support cross-functional analysis.
+* DAX Measures: Created measures to calculate important performance indicators and summarize business performance.
+* Data Visualization: Designed interactive dashboards using KPI cards, bar charts, line charts, and doughnut/gauge visuals.
+* Dashboard Design: Applied a consistent green-and-white theme with navigation panels to make the dashboards organized and easy to explore.
+
+1. Key Performance Indicators (KPIs)
+
+Dashboard 1: Operations & Delivery Performance
+
+The dashboard monitors delivery efficiency, revenue, customer activity, and overall logistics operations.
+
+KPI	Dashboard Value
+Total Customers	300
+Total Revenue	$2.63M
+Total Loads	85K
+On-Time Delivery Rate	44.6%
+Revenue per Mile	$2.15
+Total Trips	85K
+
+Key Insights
+
+* The business recorded approximately $2.63 million in total revenue.
+* The dashboard reports approximately 85,000 loads and 85,000 trips, highlighting the scale of logistics activity.
+* The on-time delivery rate of 44.6% indicates a potential area for improvement in delivery reliability.
+* Revenue per mile provides a useful measure for monitoring transportation revenue efficiency.
+* Monthly delivery and revenue visuals help management identify changes in performance over time.
+
+Recommendations
+
+* Investigate the causes of delayed deliveries.
+* Monitor route performance and delivery timelines.
+* Review monthly revenue and load trends to identify opportunities for improved efficiency.
+
+Dashboard 2: Driver Performance
+
+This dashboard evaluates driver activity, trip completion, employment status, revenue contribution, and safety-related performance.
+
+KPI	Dashboard Value
+Total Drivers	150
+Active Drivers	124
+Total Trips	85K
+Total Incidents	170
+
+Key Insights
+
+* Of the 150 drivers recorded, 124 are classified as active.
+* The dashboard shows differences in trip activity among drivers, which can help management understand workload distribution.
+* Driver revenue comparisons help identify drivers associated with higher recorded revenue.
+* The incident count provides a basis for monitoring safety performance alongside productivity.
+
+Recommendations
+
+* Investigate differences in driver productivity and workload.
+* Recognize strong performance while maintaining fair performance assessments.
+* Provide targeted training and safety support where incident records indicate a need.
+* Review driver activity and employment status regularly.
+
+Dashboard 3: Fleet Utilization
+
+The fleet dashboard monitors vehicle availability, utilization, trip activity, and maintenance requirements.
+
+KPI	Dashboard Value
+Total Trucks	120
+Active Trucks	92
+Average Utilization	81%
+Trucks Under Maintenance	Verify final displayed value
+
+Key Insights
+
+* The dashboard records 120 trucks, of which 92 are active.
+* Average fleet utilization is approximately 81%, providing a useful measure of how effectively the fleet is being used.
+* Truck-level utilization comparisons help identify vehicles with different usage patterns.
+* Maintenance-by-truck and trips-by-truck visuals support fleet planning and maintenance monitoring.
+* Changes in utilization over time can help management identify periods of higher or lower fleet activity.
+
+Recommendations
+
+* Investigate underutilized vehicles and opportunities to allocate them more efficiently.
+* Schedule preventive maintenance to reduce avoidable downtime.
+* Monitor vehicle utilization alongside maintenance requirements and trip demand.
+* Review fleet availability before adding new vehicles or reallocating existing ones.
+
+Dashboard 4: Cost, Maintenance & Safety
+
+This dashboard focuses on fuel expenditure, maintenance costs, maintenance activity, and safety incidents.
+
+KPI	Dashboard Value
+Total Fuel Cost	Approximately $959.95M — verify source data and units
+Maintenance Cost	Approximately $5.73M
+Maintenance Events	2,820
+Total Safety Incidents	170
+
+Key Insights
+
+* Fuel expenditure is tracked monthly to reveal changes in operating costs.
+* Monthly maintenance-cost comparisons help identify periods of increased maintenance spending.
+* The dashboard records 2,820 maintenance events, making maintenance frequency an important area for further investigation.
+* A total of 170 safety incidents is displayed, allowing management to monitor safety performance.
+* Fuel cost by truck helps identify vehicles contributing substantially to fuel expenditure.
+* Incident-type comparisons help highlight categories that may require additional safety attention.
+
+Recommendations
+
+* Validate unusually large fuel-cost figures against the original dataset and currency units.
+* Investigate vehicles with high fuel expenditure and maintenance requirements.
+* Use preventive maintenance schedules to reduce avoidable repair costs.
+* Analyze incident categories and introduce targeted safety interventions.
+* Monitor cost trends regularly to support budgeting and operational planning.
+
+1. Overall Business Insights
+
+The four dashboards provide a connected view of logistics operations, from delivery execution to driver performance, fleet usage, and operating costs.
+
+The major areas requiring management attention are:
+
+1. Delivery reliability: The reported on-time delivery rate of 44.6% suggests an opportunity to investigate delays and improve service reliability.
+2. Driver productivity: Driver-level comparisons can support better workload distribution and performance monitoring.
+3. Fleet efficiency: The reported 81% average utilization provides a baseline for monitoring vehicle usage and availability.
+4. Cost management: Monthly fuel and maintenance analysis can help identify expenditure patterns and potential cost-saving opportunities.
+5. Safety improvement: Incident monitoring can support evidence-based safety training and preventive measures.
+
+These observations identify areas for further investigation rather than proving the causes of operational problems.
